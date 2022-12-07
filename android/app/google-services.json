@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "701914833535",
+    "project_id": "chats-kuldii",
+    "storage_bucket": "chats-kuldii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701914833535:android:b3103fae0187e00be8954a",
+        "android_client_info": {
+          "package_name": "com.chatAppKuld2.chat_apps_kuld_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701914833535-5c6fbo645s6u5cdfslppmcftvqd2j4lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsvgkoGLTk5ABCTJAxTN2xa6bFOdStls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701914833535-5c6fbo645s6u5cdfslppmcftvqd2j4lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701914833535-2ppprr0b3daohk1j9v8koee21mas026r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chatAppKuld2.chatAppsKuld2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701914833535:android:b33e876589fa4d2fe8954a",
+        "android_client_info": {
+          "package_name": "com.chat_app_kuld.chat_apps_kuld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701914833535-1h7v6os135oehuht5rgvt6tqo69hq6dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat_app_kuld.chat_apps_kuld",
+            "certificate_hash": "577aeffdab852f97f00679e21cbd57956bdc2e37"
+          }
+        },
+        {
+          "client_id": "701914833535-5c6fbo645s6u5cdfslppmcftvqd2j4lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsvgkoGLTk5ABCTJAxTN2xa6bFOdStls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701914833535-5c6fbo645s6u5cdfslppmcftvqd2j4lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701914833535-2ppprr0b3daohk1j9v8koee21mas026r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chatAppKuld2.chatAppsKuld2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
